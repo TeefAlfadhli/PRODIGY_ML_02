@@ -29,8 +29,7 @@ The complete analysis and clustering implementation can be found in the Jupyter 
 - **scikit-learn** (Machine Learning - K-Means Clustering)
 - **Matplotlib, Seaborn** (Data Visualization)
 
-## 📜 License
-This project is open-source and available under the **MIT License**.
+
 
 ---
 
